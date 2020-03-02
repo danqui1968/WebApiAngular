@@ -1,0 +1,14 @@
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\bin\Debug\netcoreapp2.2\ProAgil.WebApi.deps.json
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\bin\Debug\netcoreapp2.2\ProAgil.WebApi.runtimeconfig.json
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\bin\Debug\netcoreapp2.2\ProAgil.WebApi.runtimeconfig.dev.json
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\bin\Debug\netcoreapp2.2\ProAgil.WebApi.dll
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\bin\Debug\netcoreapp2.2\ProAgil.WebApi.pdb
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\obj\Debug\netcoreapp2.2\ProAgil.WebApi.csprojAssemblyReference.cache
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\obj\Debug\netcoreapp2.2\ProAgil.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\obj\Debug\netcoreapp2.2\ProAgil.WebApi.RazorAssemblyInfo.cache
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\obj\Debug\netcoreapp2.2\ProAgil.WebApi.RazorAssemblyInfo.cs
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\obj\Debug\netcoreapp2.2\ProAgil.WebApi.AssemblyInfoInputs.cache
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\obj\Debug\netcoreapp2.2\ProAgil.WebApi.AssemblyInfo.cs
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\obj\Debug\netcoreapp2.2\ProAgil.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\obj\Debug\netcoreapp2.2\ProAgil.WebApi.dll
+C:\Users\dquinto\Documents\DotNetCore\ProAgil.WebApi\obj\Debug\netcoreapp2.2\ProAgil.WebApi.pdb
